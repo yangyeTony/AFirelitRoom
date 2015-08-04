@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  A Dark Room
+
+  Created by Denis Tokarev on 14/05/15.
+*/
+
+"l armour" = "leather armor";
+"i armour" = "iron armor";
+"s armour" = "steel armor";
+"armour" = "armor";
+"rucksack" = "backpack";
+"charcutier" = "butcher";
+"pop " = "population ";
